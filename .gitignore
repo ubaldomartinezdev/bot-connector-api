@@ -1,0 +1,4 @@
+# Add this to the .gitignore:
+node_modules
+dist
+store
